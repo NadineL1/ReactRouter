@@ -1,5 +1,5 @@
 export default function About() {
     return (
-        <h1>Mina project</h1>
+        <h1>HEj</h1>
     )
 }
